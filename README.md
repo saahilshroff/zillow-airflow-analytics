@@ -18,7 +18,8 @@ This project builds an end-to-end Zillow data pipeline using Python, RapidAPI, A
 ![DAG of the project](assets/airflow_dag.PNG)
 
 ## Demo
-![Demo Video](assets/video1046653474.mp4)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red)](https://livepush.io/mp4-player/?src=https://rawcdn.githack.com/saahilshroff/zillow-airflow-analytics/2f455bebd0429aaa75ed972b6986d91791324b14/assets/video1046653474.mp4)
+
 
 ## Code
 Python file:
