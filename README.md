@@ -26,9 +26,11 @@ Click on the thumbnail below. You will be redirected to YouTube. Enjoy! :D
 
 ## Code
 Python file:
-![Zillow_Analytics.py](zillow_analytics.py)
+
+[![Zillow_Analytics.py](zillow_analytics.png)](zillow_analytics.py)
 
 config_api.json file:
+
 ```bash
 {
 	"x-rapidapi-key": "<API-KEY>",
