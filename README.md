@@ -19,7 +19,7 @@ This project builds an end-to-end Zillow data pipeline using Python, RapidAPI, A
 
 ## Demo
 
-Click on the thumbnail below. You will be redirected to the livepush link. Click on 
+Click on the thumbnail below. You will be redirected to YouTube. Enjoy! :D
 
 [![Watch Video](assets/demo_screenshot.png)](https://youtu.be/RYipQSIS-MU)
 
