@@ -3,8 +3,8 @@ This project builds an end-to-end Zillow data pipeline using Python, RapidAPI, A
 
 ## Table of Contents
 - [Architecture](#Architecture)
-- [DAG diagram](#DAG)
 - [Demo](#Demo)
+- [DAG diagram](#DAG)
 - [Python Code](#Code)
 - [Visualization](#Visualization)
 - [Learnings](#Learnings)
@@ -18,6 +18,7 @@ This project builds an end-to-end Zillow data pipeline using Python, RapidAPI, A
 ![DAG of the project](assets/airflow_dag.PNG)
 
 ## Demo
+![Demo Video](assets/video1046653474.mp4)
 
 ## Code
 Python file:
@@ -38,6 +39,7 @@ config_api.json file:
 - Airflow Orchestration and DAG
 - AWS
     - Creating an EC2 instance
+    - SSH Connection
     - Lambda functions
     - Redshift connection
     - Quicksight
