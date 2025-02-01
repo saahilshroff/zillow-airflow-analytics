@@ -52,7 +52,8 @@ config_api.json file:
 - Airflow & AWS connections - AWS & Redshift 
 
 ## Acknowledgments
-
+- Using VSCode remotely on an EC2 instance: [VSCode on EC2](https://medium.com/@christyjacob4/using-vscode-remotely-on-an-ec2-instance-7822c4032cff)
+- End to End ETL Pipeline: [E2E ETL Pipeline](https://www.youtube.com/watch?v=j_skupZ3zw0)
 
 ## Miscellaneous
 Screenshots of individual components of the orchestration. Found in the ```misc``` folder
